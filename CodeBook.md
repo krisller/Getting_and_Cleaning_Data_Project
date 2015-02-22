@@ -1,12 +1,12 @@
 #Code Book
 
 ## Tiny data variables
-<code>
-  subject: int 1 to 30. IDs for each volunteer who participated in the experiments.
-  activity: char. Represents six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
-  tBodyAcc-mean()-X                   : num. The average for each activity and each subject.
-  tBodyAcc-mean()-Y                   : num. The average for each activity and each subject.
-  tBodyAcc-mean()-Z                   : num. The average for each activity and each subject.
+
+subject: int 1 to 30. IDs for each volunteer who participated in the experiments.
+activity: char. Represents six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+tBodyAcc-mean()-X                   : num. The average for each activity and each subject.
+tBodyAcc-mean()-Y                   : num. The average for each activity and each subject.
+tBodyAcc-mean()-Z                   : num. The average for each activity and each subject.
 tBodyAcc-std()-X                    : num. The average for each activity and each subject.
 tBodyAcc-std()-Y                    : num. The average for each activity and each subject.
 tBodyAcc-std()-Z                    : num. The average for each activity and each subject.
@@ -101,4 +101,3 @@ tBodyAccJerk-min()-Y                : num. The average for each activity and eac
 tBodyAccJerk-min()-Z                : num. The average for each activity and each subject.
 tBodyAccJerk-sma()                  : num. The average for each activity and each subject.
 tBodyAccJerk-energy()-X             : num. The average for each activity and each subject.
-</code>
