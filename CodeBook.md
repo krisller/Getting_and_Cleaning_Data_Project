@@ -3,9 +3,13 @@
 ## Tiny data variables
 
 subject: int 1 to 30. IDs for each volunteer who participated in the experiments.
+
 activity: char. Represents six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+
 tBodyAcc-mean()-X                   : num. The average for each activity and each subject.
+
 tBodyAcc-mean()-Y                   : num. The average for each activity and each subject.
+
 tBodyAcc-mean()-Z                   : num. The average for each activity and each subject.
 tBodyAcc-std()-X                    : num. The average for each activity and each subject.
 tBodyAcc-std()-Y                    : num. The average for each activity and each subject.
